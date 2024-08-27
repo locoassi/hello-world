@@ -8,3 +8,15 @@ cd hello-world
 
 # Create a new branch
 git checkout -b hello-world-test
+
+# Stage and commit the change
+git add .
+git commit -m "add PR txt"
+
+# Check commit
+git status
+
+# Push change to repository
+git push origin hello-world-test
+-username: locoassi
+-credential: accese-token
