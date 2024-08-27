@@ -1,0 +1,10 @@
+Pull Request Step by Step
+
+# Clone repository
+git clone https://github.com/locoassi/hello-world.git
+
+# Go to the directory
+cd hello-world
+
+# Create a new branch
+git checkout -b hello-world-test
